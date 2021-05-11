@@ -1,0 +1,10 @@
+version: 1.0
+fichiers:
+
+    train : //data//raw//GTSRB_Final_Training_Images.zip 
+    test: //data//raw//GTSRB_Final_Test_Images.zip
+
+variables: 
+    
+    IMAGE_WIDTH : 30
+    IMAGE_HEIGHT: 30
