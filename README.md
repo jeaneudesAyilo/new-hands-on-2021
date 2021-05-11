@@ -9,7 +9,8 @@ Hands-on project session 2021
 * clone this repository : `git clone https://github.com/jeaneudesAyilo/new-hands-on-2021.git`
 * install the required packages : `pip install -r requirements.txt`
 * downlod images with "scripts/downlaod_images.sh"
-* yolov3 weights were downloaded from : https://pjreddie.com/media/files/yolov3.weights
+* Download yolov3 weights were from : https://pjreddie.com/media/files/yolov3.weights and put it in model directory
+* One could get the weights of my yolo model on gtsdb from here : https://drive.google.com/file/d/1qJfrEgD1qnpnp1gzpaPFMO3B9ygcqCDT/view?usp=sharing  and put it in notebooks/checkpoints
 * Run the dash app from your terminal, you might need to be in the `notebooks` directory to see it works, for example : 
 
 `cd Documents/new-hands-on-2021/notebooks`
